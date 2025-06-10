@@ -28,3 +28,8 @@
 [14:03:17] [Server thread/INFO]: Server empty for 60 seconds, pausing
 [14:06:27] [Server thread/INFO]: Unknown or incomplete command, see below for error
 [14:06:27] [Server thread/INFO]: 2<--[HERE]
+[14:12:51] [Server thread/INFO]: Joshrty2[/127.198.62.130:43471] logged in with entity id 27 at (0.5, 66.0, -7.5)
+[14:12:51] [Server thread/INFO]: Joshrty2 joined the game
+[14:14:28] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=4, y=68, z=56} ji{x=4, y=67, z=57}
+[14:19:11] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=40, y=63, z=267} ji{x=40, y=61, z=267}
+[14:21:48] [Server thread/INFO]: Joshrty2 has made the advancement [Stone Age]
